@@ -5,7 +5,7 @@
 
 ## <div align="center">I'm Yatharth 🚀 | CS UNDERGRADUATE</div>  
 
-#- 🔭 I’m currently working on Databases
+- 🔭 I’m currently working on Databases
   
 
 - 🌱 I’m currently learning Flutter Development
