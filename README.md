@@ -26,7 +26,7 @@
 
 
 ## My Skill Set  
-![C](https://skillicons.dev/icons?i=c) ![C#](https://skillicons.dev/icons?i=c#) ![C++](https://skillicons.dev/icons?i=c++) ![HTML5](https://skillicons.dev/icons?i=html5) ![Python](https://skillicons.dev/icons?i=python) ![CSS3](https://skillicons.dev/icons?i=css) ![Flutter](https://skillicons.dev/icons?i=flutter) ![Firebase](https://skillicons.dev/icons?i=firebase) ![Java](https://skillicons.dev/icons?i=java) ![Adobe After Effects](https://skillicons.dev/icons?i=aftereffects) ![Adobe Photoshop](https://skillicons.dev/icons?i=photoshop) ![Adobe Premiere Pro](https://skillicons.dev/icons?i=premiere) ![NumPy](https://skillicons.dev/icons?i=numpy) ![SQLite](https://skillicons.dev/icons?i=sqlite) 
+![C](https://skillicons.dev/icons?i=c) ![C#](https://skillicons.dev/icons?i=cs) ![Dart](https://skillicons.dev/icons?i=dart) ![C++](https://skillicons.dev/icons?i=cpp) ![HTML5](https://skillicons.dev/icons?i=html) ![Python](https://skillicons.dev/icons?i=python) ![CSS3](https://skillicons.dev/icons?i=css) ![Flutter](https://skillicons.dev/icons?i=flutter) ![Firebase](https://skillicons.dev/icons?i=firebase) ![Java](https://skillicons.dev/icons?i=java) ![Adobe After Effects](https://skillicons.dev/icons?i=aftereffects) ![Adobe Photoshop](https://skillicons.dev/icons?i=photoshop) ![Adobe Premiere Pro](https://skillicons.dev/icons?i=premiere) ![SQLite](https://skillicons.dev/icons?i=sqlite)
 </br>
 </br>
 
